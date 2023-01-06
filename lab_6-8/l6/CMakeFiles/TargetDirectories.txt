@@ -1,0 +1,4 @@
+/home/kivi/os/lab_6-8/l6/CMakeFiles/edit_cache.dir
+/home/kivi/os/lab_6-8/l6/CMakeFiles/calculation.dir
+/home/kivi/os/lab_6-8/l6/CMakeFiles/rebuild_cache.dir
+/home/kivi/os/lab_6-8/l6/CMakeFiles/control.dir

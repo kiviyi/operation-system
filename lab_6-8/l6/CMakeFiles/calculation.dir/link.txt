@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/calculation.dir/include/calculation_node.o CMakeFiles/calculation.dir/include/search.o  -o calculation  -lzmq -lpthread 

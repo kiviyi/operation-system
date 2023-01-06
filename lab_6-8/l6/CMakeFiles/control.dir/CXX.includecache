@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kivi/os/lab_6-8/include/control.cpp
+unistd.h
+-
+vector
+-
+../src/topology.hpp
+/home/kivi/os/lab_6-8/src/topology.hpp
+../src/zmq_std.hpp
+/home/kivi/os/lab_6-8/src/zmq_std.hpp
+
+/home/kivi/os/lab_6-8/src/topology.hpp
+iostream
+-
+list
+-
+
+/home/kivi/os/lab_6-8/src/zmq_std.hpp
+assert.h
+-
+errno.h
+-
+string.h
+-
+string
+-
+zmq.h
+-
+
